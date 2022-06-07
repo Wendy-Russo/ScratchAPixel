@@ -1,0 +1,77 @@
+*{
+    margin: 0 !important;
+}
+
+.bg-header{
+    background-color: #1565C0 ;
+}
+
+.col-header{
+    color: #1565C0 ;
+}
+
+.bg-slogan{
+    background-color: #2196F3 ;
+}
+
+.col-slogan{
+    color: #2196F3 ;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-fit{
+    width: fit-content;
+}
+
+.h-fit{
+    height: fit-content;
+}
+
+.text-shadow{
+    text-shadow:  0 0 1rem rgba(0,0,0, .2);
+}
+
+.font-opensans-bold{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.font-opensans{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.font-hind-bold{
+    font-family: 'Hind', sans-serif;
+    font-weight: 700;
+}
+
+.font-hind{
+    font-family: 'Hind', sans-serif;
+    font-weight: 400;
+}
+
+.z-0{
+    z-index: 0;
+}
+
+.z-1{
+    z-index: 1;
+}
+
+.article-item{
+    width: 600px;
+}
+
+.article-description{
+    display:-webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+
+    line-height: 24px;
+    overflow: hidden;
+
+}
