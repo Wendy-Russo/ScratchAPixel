@@ -53,11 +53,11 @@
 .article-item {
     transition: all 0.2s ease-in-out;
 
-    transform: translateZ(0);
+    transform: translateX(0);
 }
 
 .article-item:hover {
-    transform: scale(1.02)  translateX(0.3rem);
+    transform: translateX(0.3rem);
 
 }
 
